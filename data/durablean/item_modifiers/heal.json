@@ -1,5 +1,5 @@
 {
     "function": "minecraft:set_damage",
-    "count": -450,
+    "damage": 0.28,
     "add": true
 }
