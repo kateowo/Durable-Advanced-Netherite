@@ -3,7 +3,7 @@
 
 
 # clear item
-clear @s gold_nugget 1
+clear @s netherite_nugget:netherite_nugget 1
 
 # heal
 item modify entity @s weapon.mainhand durablean:heal
